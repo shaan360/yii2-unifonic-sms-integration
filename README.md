@@ -1,6 +1,6 @@
 # yii2-unifonic-sms-integration
 Yii2 component to integrate unifonic sms gateway. 
-This SDK is to enable the PHP developer to integrate his/her php project with our APIs to take advantages of all features we offer like send SMS , voice call and get reports
+This component is to enable the yii2 PHP developer to integrate his/her php project with UNIFONIC APIs to take advantages of all features we offer like send SMS , voice call and get reports
 
 How to use the SDK :
 
